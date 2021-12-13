@@ -1,6 +1,6 @@
 {
   "name": "@renbaoshuo/gulp-babel-inline",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp plugin to transpile inline javascript via babel.",
   "main": "index.js",
   "repository": "https://github.com/renbaoshuo/gulp-babel-inline.git",
